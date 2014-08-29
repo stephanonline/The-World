@@ -1,9 +1,9 @@
 ﻿namespace World.Elements
 {
     /// <summary>
-    /// Element of Wind
+    /// Element of Air
     /// </summary>
-    public interface IWind : IElement
+    public interface IAir : IElement
     {
     }
 }

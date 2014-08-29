@@ -39,17 +39,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animals\Types\Bird.cs" />
-    <Compile Include="Animals\Types\Cat.cs" />
-    <Compile Include="Animals\Types\Dog.cs" />
-    <Compile Include="Animals\Types\Fish.cs" />
-    <Compile Include="Animals\IAnimal.cs" />
+    <Compile Include="Organisms\Class\IArachnida.cs" />
+    <Compile Include="Organisms\Class\IBird.cs" />
+    <Compile Include="Organisms\Class\IInsect.cs" />
+    <Compile Include="Organisms\Class\IMammal.cs" />
+    <Compile Include="Organisms\Class\IReptile.cs" />
+    <Compile Include="Organisms\Domain\IArchaea.cs" />
+    <Compile Include="Organisms\Domain\IBacteria.cs" />
+    <Compile Include="Organisms\Domain\IEucarya.cs" />
+    <Compile Include="Organisms\IEukaryote.cs" />
+    <Compile Include="Organisms\IProkaryota.cs" />
+    <Compile Include="Organisms\Family\ICanidae.cs" />
+    <Compile Include="Organisms\Genus\ICanis.cs" />
+    <Compile Include="Organisms\Kingdom\IBacteria.cs" />
+    <Compile Include="Organisms\Kingdom\IChromista.cs" />
+    <Compile Include="Organisms\Kingdom\IFungus.cs" />
+    <Compile Include="Organisms\Kingdom\IPlant.cs" />
+    <Compile Include="Organisms\Kingdom\IAnimal.cs" />
     <Compile Include="Elements\IEarth.cs" />
     <Compile Include="Elements\IFire.cs" />
     <Compile Include="Elements\IElement.cs" />
-    <Compile Include="Environment\Steam.cs" />
     <Compile Include="Elements\IWater.cs" />
-    <Compile Include="Elements\IWind.cs" />
+    <Compile Include="Elements\IAir.cs" />
+    <Compile Include="Organisms\Kingdom\IProtist.cs" />
+    <Compile Include="Organisms\Kingdom\IProtozoa.cs" />
+    <Compile Include="Organisms\Order\IAraneae.cs" />
+    <Compile Include="Organisms\Order\ICarnivora.cs" />
+    <Compile Include="Organisms\Order\IHymenoptera.cs" />
+    <Compile Include="Organisms\Phylum\IArthropoda.cs" />
+    <Compile Include="Organisms\Phylum\IChordata.cs" />
+    <Compile Include="Organisms\Species\IHomoSapian.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
