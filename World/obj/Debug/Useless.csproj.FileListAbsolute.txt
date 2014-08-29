@@ -1,5 +1,0 @@
-C:\Projects\Useless\Useless\bin\Debug\Useless.dll
-C:\Projects\Useless\Useless\bin\Debug\Useless.pdb
-C:\Projects\Useless\Useless\obj\Debug\Useless.csprojResolveAssemblyReference.cache
-C:\Projects\Useless\Useless\obj\Debug\Useless.dll
-C:\Projects\Useless\Useless\obj\Debug\Useless.pdb
